@@ -14,7 +14,7 @@ MiniSnap is a minimalistic Rainmeter skin designed to provide a sleek and functi
 
 1. Download the `.rmskin` file from the [releases](https://github.com/NSTechBytes/MiniSnap/releases) page.
 2. Double-click the `.rmskin` file to install.
-3. Use the Rainmeter manager to load the "YourStart" skin.
+3. Use the Rainmeter manager to load the "MiniSnap" skin.
 
 ## Preview
 ![Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/MiniSnap/Screenshot%20(160).png) <!-- Add a link to your image or GIF preview -->
