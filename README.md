@@ -17,8 +17,8 @@ MiniSnap is a minimalistic Rainmeter skin designed to provide a sleek and functi
 3. Use the Rainmeter manager to load the "YourStart" skin.
 
 ## Preview
-![Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/YourStart/Screenshot%20(160).png) <!-- Add a link to your image or GIF preview -->
-![Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/YourStart/Screenshot%20(161).png) 
+![Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/MiniSnap/Screenshot%20(160).png) <!-- Add a link to your image or GIF preview -->
+![Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/MiniSnap/Screenshot%20(161).png) 
 
 ## Requirements
 
