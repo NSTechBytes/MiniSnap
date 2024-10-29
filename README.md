@@ -1,5 +1,5 @@
 # MiniSnap
-MiniSnap is a minimalistic Rainmeter skin designed to provide a sleek and functional start menu right on your desktop. It features a clean, modern aesthetic, and integrates seamlessly with Rainmeter to offer a smooth user experience.It is use to take screenshots in various formats.
+MiniSnap is a minimalistic Rainmeter skin designed to provide a sleek and functional screenshot tool menu right on your desktop. It features a clean, modern aesthetic, and integrates seamlessly with Rainmeter to offer a smooth user experience.It is use to take screenshots in various formats.
 
 ## Features
 
