@@ -8,7 +8,7 @@ MiniSnap is a minimalistic Rainmeter skin designed to provide a sleek and functi
 - **Minimal Design**: A clutter-free, modern design that blends well with various desktop setups.
 - **Lightweight**: Optimized for low system resource usage.
 - **Frosted Glass**: Added Frosted Glass Effect in BackGround Skin.
-- - **Automatic Update**: Automatic Check Update and download and install latest skin.Now not need to effort to download latest version.
+- **Automatic Update**: Automatic Check Update and download and install latest skin.Now not need to effort to download latest version.
 
 ## Installation
 
