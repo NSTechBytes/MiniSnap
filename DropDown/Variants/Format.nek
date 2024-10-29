@@ -1,0 +1,22 @@
+[png_Shape]
+Meter=Shape
+Y=10r 
+MeterStyle=Content_Shape_S
+[png]
+Meter=String 
+MeterStyle=Content_Text | Content_Text_2
+
+[bmp_Shape]
+Meter=Shape 
+MeterStyle=Content_Shape_S
+[bmp]
+Meter=String 
+MeterStyle=Content_Text |Content_Text_2
+
+[jpg_Shape]
+Meter=Shape 
+MeterStyle=Content_Shape_S
+[jpg]
+Meter=String 
+MeterStyle=Content_Text | Content_Text_2
+
